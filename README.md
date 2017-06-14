@@ -23,5 +23,5 @@ Current Version : ```v1.0```
 - **Ivan Favian Elianto** - Initial work
 
 ## License
-This project is licensed under the Apache v2.0 License - see the LICENSE.md file for details
+This project is licensed under the Apache v2.0 License - see the [LICENSE](https://github.com/purenaturalism/Mansy/blob/master/LICENSE) file for details
 
