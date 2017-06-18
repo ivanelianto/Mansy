@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.droidapp.ivanelv.mansy">
 
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -24,6 +27,6 @@
                 android:name="com.android.support.PARENT_ACTIVITY"
                 android:value="com.droidapp.ivanelv.mansy.MainActivity"/>
         </activity>
-    </application>
 
+    </application>
 </manifest>
