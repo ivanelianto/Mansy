@@ -1,9 +1,14 @@
 # Mansy
 Mansy is an application that help Indonesia Android Kejar (IAK) Facilitators to send Final Project Link to participant.
 
-Current Version : ```v1.0```
+Current Version : ```v2.0```
 
 **Version :**
+> v2.0
+> Changes :
+> - New Features : Send email to participants  
+>   _**Note : You Must Input Your Email and Email Password in EmailConfig.java File Before You Can Use This Application Properly.**_
+
 > v1.0  
 > Just finished basic CRUD feature.
 
