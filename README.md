@@ -1,5 +1,8 @@
 # Mansy
-Mansy is an application that help Indonesia Android Kejar (IAK) Facilitators to send Final Project Link to participant.
+Mansy is an application that help Indonesia Android Kejar (IAK) Facilitators to send Final Project Link to participant.  
+  
+Screenshot :
+![Screenshots](https://github.com/purenaturalism/Mansy/blob/master/All.png)
 
 Current Version : ```v2.0```
 
@@ -25,7 +28,7 @@ Current Version : ```v2.0```
 5. Change the gradle build tools version in modules/build.gradle to fit with your.  
 
 ## Credits
-- **Ivan Favian Elianto** - Initial work
+- **Ivan Favian Elianto**
 
 ## License
 This project is licensed under the Apache v2.0 License - see the [LICENSE](https://github.com/purenaturalism/Mansy/blob/master/LICENSE) file for details
